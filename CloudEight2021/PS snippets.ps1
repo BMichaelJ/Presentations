@@ -3,7 +3,7 @@ $Location = "NorthEurope"
 $RGName = "CloudEightRG"
 $applicationInsightsName = "CloudEightAI"
 $actionGroupName = "CloudEightAG"
-$actionGroupShortName = "AlertCloudEight"
+$actionGroupShortName = "AlertCloud8"
 $alertEmailReceiver = "Michael"
 $alertEmailAddress = "mbj78@hotmail.com"
 
@@ -24,4 +24,4 @@ New-AzResourceGroupDeployment -ResourceGroupName $RGName `
 -actionGroupName $actionGroupName `
 -actionGroupShortName $actionGroupShortName `
 -alertEmailReceiver $alertEmailReceiver `
--alertEmailAddress $alertEmailAddress
+-alertEmailAddress $alertEmailAddress -verbose
