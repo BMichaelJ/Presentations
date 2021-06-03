@@ -1,0 +1,218 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="zWxBTMdM6NAE-nKmvcNP" name="Failure Anomalies">
+        <mxGraphModel dx="1360" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="mMMQiQnjaMDebt8gb1ha-0"/>
+                <mxCell id="mMMQiQnjaMDebt8gb1ha-1" parent="mMMQiQnjaMDebt8gb1ha-0"/>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-694" y="70" width="635" height="327" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-27" target="ZxfC2XXY_B9ZqXjyjzpu-44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-44" value="&lt;ul&gt;&lt;li&gt;Resource Manager Role (Mail)&lt;/li&gt;&lt;li&gt;E-Mail/SMS/Voice&lt;/li&gt;&lt;li&gt;Automation Runbook&lt;/li&gt;&lt;li&gt;Azure Function&lt;/li&gt;&lt;li&gt;ITSM&lt;/li&gt;&lt;li&gt;Logic App&lt;/li&gt;&lt;li&gt;Secure Webhook&lt;/li&gt;&lt;li&gt;Webhook&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-4" y="93" width="232" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-30" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Application Insights&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-682.5" y="44" width="144" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-31" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Alert Rules&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-455" y="44" width="84" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-32" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Action Group&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-232.5" y="44" width="99" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#E1D5E7;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-683" y="83" width="605" height="98" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-23" target="ZxfC2XXY_B9ZqXjyjzpu-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-671" y="96" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-21" value="AppName1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-620.6" y="108" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-26" target="ZxfC2XXY_B9ZqXjyjzpu-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-26" value="Failure Anomalies - AppName1" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-498.25" y="96" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-27" value="Application Insights Smart Detection" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-283" y="93" width="199" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-50" value="Operations" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fillColor=#E1D5E7;gradientColor=none;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="177" y="122.5" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#FFF4C3;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-682.5" y="184.5" width="390.5" height="90.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-33" target="ZxfC2XXY_B9ZqXjyjzpu-38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-671" y="195" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-34" value="AppName2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-620.6" y="207" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-38" value="Failure Anomalies - AppName2" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-504" y="195" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-38" target="ZxfC2XXY_B9ZqXjyjzpu-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-243" y="225" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#FF6666;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-683" y="286" width="390.5" height="90.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-35" target="ZxfC2XXY_B9ZqXjyjzpu-39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-674.5" y="301" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-36" value="AppName3" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-624.1" y="313" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-39" value="Failure Anomalies - AppName3" style="rounded=1;whiteSpace=wrap;html=1;" parent="mMMQiQnjaMDebt8gb1ha-1" vertex="1">
+                    <mxGeometry x="-504" y="298" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZxfC2XXY_B9ZqXjyjzpu-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="mMMQiQnjaMDebt8gb1ha-1" source="ZxfC2XXY_B9ZqXjyjzpu-39" target="ZxfC2XXY_B9ZqXjyjzpu-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-243" y="328" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Smart detect rules" id="eC6bwh1JNi5DSWfAZ6E2">
+        <mxGraphModel dx="1360" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-0"/>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-1" parent="CfZ4LIjmbzuVOozJbIx2-0"/>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-694" y="70" width="635" height="327" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-14" target="CfZ4LIjmbzuVOozJbIx2-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-4" value="&lt;ul&gt;&lt;li&gt;Resource Manager Role (Mail)&lt;/li&gt;&lt;li&gt;E-Mail/SMS/Voice&lt;/li&gt;&lt;li&gt;Automation Runbook&lt;/li&gt;&lt;li&gt;Azure Function&lt;/li&gt;&lt;li&gt;ITSM&lt;/li&gt;&lt;li&gt;Logic App&lt;/li&gt;&lt;li&gt;Secure Webhook&lt;/li&gt;&lt;li&gt;Webhook&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-4" y="93" width="232" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-5" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Application Insights&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-682.5" y="44" width="144" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-6" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Alert Rules&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-455" y="44" width="84" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-7" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Action Group&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-232.5" y="44" width="99" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#E1D5E7;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-683" y="83" width="605" height="98" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-10" target="CfZ4LIjmbzuVOozJbIx2-13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-671" y="96" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-11" value="AppName1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-620.6" y="108" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-13" target="CfZ4LIjmbzuVOozJbIx2-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-13" value="Failure Anomalies - AppName1" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-498.25" y="96" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-14" value="Application Insights Smart Detection" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-283" y="93" width="199" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-15" value="Operations" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fillColor=#E1D5E7;gradientColor=none;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="177" y="122.5" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#FFF4C3;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-682.5" y="184.5" width="390.5" height="90.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-18" target="CfZ4LIjmbzuVOozJbIx2-20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-671" y="195" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-19" value="AppName2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-620.6" y="207" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-20" value="Failure Anomalies - AppName2" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-504" y="195" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-20" target="CfZ4LIjmbzuVOozJbIx2-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-243" y="225" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;fillColor=#FF6666;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-683" y="286" width="390.5" height="90.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-24" target="CfZ4LIjmbzuVOozJbIx2-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-674.5" y="301" width="120" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-25" value="AppName3" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-624.1" y="313" width="19.2" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-26" value="Failure Anomalies - AppName3" style="rounded=1;whiteSpace=wrap;html=1;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-504" y="298" width="181" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-26" target="CfZ4LIjmbzuVOozJbIx2-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-243" y="328" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-28" target="CfZ4LIjmbzuVOozJbIx2-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-672" y="453" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-672" y="408"/>
+                            <mxPoint x="200" y="408"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-28" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Smart Detect Rules&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;fillColor=#67AB9F;gradientColor=none;size=17;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-696" y="316" width="48" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-29" target="CfZ4LIjmbzuVOozJbIx2-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-670" y="282"/>
+                            <mxPoint x="192" y="282"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-29" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Smart Detect Rules&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;fillColor=#67AB9F;gradientColor=none;size=17;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-694" y="210" width="48" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;" parent="CfZ4LIjmbzuVOozJbIx2-1" source="CfZ4LIjmbzuVOozJbIx2-30" target="CfZ4LIjmbzuVOozJbIx2-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-675" y="188"/>
+                            <mxPoint x="-237" y="188"/>
+                            <mxPoint x="-237" y="202"/>
+                            <mxPoint x="183" y="202"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CfZ4LIjmbzuVOozJbIx2-30" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Smart Detect Rules&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;fillColor=#67AB9F;gradientColor=none;size=17;" parent="CfZ4LIjmbzuVOozJbIx2-1" vertex="1">
+                    <mxGeometry x="-699" y="111" width="48" height="57" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
