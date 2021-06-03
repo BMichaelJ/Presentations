@@ -1,9 +1,9 @@
 #Parameters to be used, change accordingly
 $Location = "NorthEurope"
-$RGName = "cllmarathonRG"
-$applicationInsightsName = "cllmarathonAI"
-$actionGroupName = "cllmarathonAG"
-$actionGroupShortName = "AlertCLL"
+$RGName = "CloudEightRG"
+$applicationInsightsName = "CloudEightAI"
+$actionGroupName = "CloudEightAG"
+$actionGroupShortName = "AlertCloudEight"
 $alertEmailReceiver = "Michael"
 $alertEmailAddress = "mbj78@hotmail.com"
 
